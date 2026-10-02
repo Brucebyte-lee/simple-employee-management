@@ -48,3 +48,11 @@ Project Structure
 - "README.md" — Provides information about the project, its purpose, and features.
 - "Database.py" — Handles the connection between the Python application and the MySQL database.
 - "Employee system.py" — Contains the main Employee Management System and its employee management operations.
+  
+Technologies Used
+
+- Python — Application programming language
+- MySQL — Relational database management system
+- MySQL Connector/Python — Connects the Python application to MySQL
+- python-dotenv — Manages database credentials using environment variables
+- Git & GitHub — Version control and project hosting
