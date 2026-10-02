@@ -35,9 +35,16 @@ Key Features
 - MySQL Database — Store and manage employee records in a structured relational database.
 - Secure Credentials — Database credentials are managed using environment variables rather than being exposed in the source code.
 Security
-
-Database credentials are stored in a ".env" file and are excluded from GitHub using ".gitignore".
+Database  credentials are stored in a ".env" file and are excluded from Github using ".gitignore"
 
 Current Status
 
 The project is functional and will continue to be improved as I learn more Python, Object-Oriented Programming, and database development.
+
+Project Structure
+
+- ".vscode/" — Contains VS Code project settings.
+- ".gitignore" — Specifies files that should not be uploaded to GitHub, including ".env".
+- "README.md" — Provides information about the project, its purpose, and features.
+- "Database.py" — Handles the connection between the Python application and the MySQL database.
+- "Employee system.py" — Contains the main Employee Management System and its employee management operations.
